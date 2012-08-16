@@ -1,0 +1,14 @@
+C:\Users\Steve\Desktop\Projects\CouchbaseDemo\CouchbaseDemo\bin\Debug\CouchbaseDemo.dll
+C:\Users\Steve\Desktop\Projects\CouchbaseDemo\CouchbaseDemo\bin\Debug\CouchbaseDemo.pdb
+C:\Users\Steve\Desktop\Projects\CouchbaseDemo\CouchbaseDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Projects\CouchbaseDemo\CouchbaseDemo\obj\Debug\CouchbaseDemo.dll
+C:\Users\Steve\Desktop\Projects\CouchbaseDemo\CouchbaseDemo\obj\Debug\CouchbaseDemo.pdb
+C:\Src\CouchbaseDemo\CouchbaseDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Src\CouchbaseDemo\CouchbaseDemo\obj\Debug\CouchbaseDemo.dll
+C:\Src\CouchbaseDemo\CouchbaseDemo\obj\Debug\CouchbaseDemo.pdb
+C:\Src\CouchbaseDemo\CouchbaseDemo\bin\Debug\CouchbaseDemo.dll
+C:\Src\CouchbaseDemo\CouchbaseDemo\bin\Debug\CouchbaseDemo.pdb
+C:\Src\CouchbaseDemo\CouchbaseDemo\bin\Debug\Couchbase.dll
+C:\Src\CouchbaseDemo\CouchbaseDemo\bin\Debug\Enyim.Caching.dll
+C:\Src\CouchbaseDemo\CouchbaseDemo\bin\Debug\Hammock.dll
+C:\Src\CouchbaseDemo\CouchbaseDemo\bin\Debug\Newtonsoft.Json.dll
