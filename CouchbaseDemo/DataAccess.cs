@@ -100,6 +100,9 @@ namespace CouchbaseDemo
         public IEnumerable<T> ExecuteView<T>(string viewName, object viewKey)
         {
             var viewResults = Client.GetView(viewName, viewName).Key(viewKey);
+            if (!viewResults.Any())
+                return null;
+
             return (from result in viewResults select result.GetItem() as string).Select(item => item.ToObject<T>());
         }
 
@@ -115,6 +118,9 @@ namespace CouchbaseDemo
         public IEnumerable<T> ExecuteView<T>(string viewName, object viewKeyStart, object viewKeyEnd)
         {
             var viewResults = Client.GetView(viewName, viewName).StartKey(viewKeyStart).EndKey(viewKeyEnd);
+            if (!viewResults.Any())
+                return null;
+
             return (from result in viewResults select result.GetItem() as string).Select(item => item.ToObject<T>());
         }
     }

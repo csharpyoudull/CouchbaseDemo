@@ -22,7 +22,7 @@ namespace CouchbaseDemo.Test
             try
             {
                 var users = Role.GetUsersByRole("Admin");
-                Assert.IsTrue(users.Any());
+                Assert.IsTrue(users != null);
             }
             catch (Exception ex)
             {
